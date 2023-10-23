@@ -5,11 +5,6 @@ import { Navigate, Route, Routes, useNavigate } from "react-router-dom";
 
 
 const FetchGitlab = () => {
-    let x691Token = "glpat-8DxvaWCXpLRsySsQekLd";
-    let url = "https://git.cs.dal.ca/";
-    let proId = "79514";
-    let gropId = "68063";
-    let grpToken = "glpat-bhmqiHzj1n-VwaeaRJ-x"
      
     const navigate = useNavigate();
 
