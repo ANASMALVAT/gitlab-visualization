@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/anas-malvat-8a95b81a3/)
+[LinkedIn](https://www.linkedin.com/in/anas-malvat-8a95b81a3/)
 
 
 
@@ -68,7 +68,7 @@ Before you begin, ensure you have met the following requirements:
 
 Follow following steps for setting up your project locally.
 
-git clone https://git.cs.dal.ca/courses/csci-x691/x691_course_tools.git
+git clone https://github.com/ANASMALVAT/gitlab-visualization.git
 
     * navigate to gitlabx691
 
